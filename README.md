@@ -1,4 +1,4 @@
-# A chatbot using LSTM model
+# A simple Q&A chatbot using LSTM
 
 The dataset for this model can be found [here](https://research.fb.com/downloads/babi/).
 
